@@ -47,7 +47,7 @@ body {
     background: #000;
     padding: 15px;
     border-radius: 5px;
-    min-height: 100px; /*define uma altura mínima para um elemento.*/
+    min-height: 100px; /*define uma altura minima para um elemento.*/
     border-left: 4px solid #ff9900; /*Diz ao navegador para aplicar a borda apenas no lado esquerdo.*/
     
     }
